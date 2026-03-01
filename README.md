@@ -164,10 +164,10 @@ Beyond systems programming and graphics, I'm interested in **AI and machine lear
 
 <p align="left">
   <a href="https://github.com/abyss9408/gam100">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=UndergraduateCoursework&theme=tokyonight&hide_border=true" alt="First Year Undergraduate Project 1" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=gam100&theme=tokyonight&hide_border=true" alt="First Year Undergraduate Project 1" />
   </a>
   <a href="https://github.com/abyss9408/gam150">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=UndergraduateCoursework&theme=tokyonight&hide_border=true" alt="First Year Undergraduate Project 2" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=gam150&theme=tokyonight&hide_border=true" alt="First Year Undergraduate Project 2" />
   </a>
   <a href="https://github.com/abyss9408/gam200">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=gam200&theme=tokyonight&hide_border=true" alt="Second Year Undergraduate Project (Bass N' Kick)" />
