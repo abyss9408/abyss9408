@@ -157,7 +157,10 @@ I'm a final year computer science undergraduate with a passion for building thin
 ## 📊 GitHub Stats
 
 <p align="left">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=abyss9408&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=abyss9408&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=abyss9408&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
