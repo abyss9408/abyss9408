@@ -4,6 +4,12 @@ I'm a final year computer science undergraduate with a passion for building thin
 
 ---
 
+## 🧠 Interests
+
+Beyond systems programming and graphics, I'm interested in **AI and machine learning** — particularly supervised and unsupervised learning algorithms. I enjoy exploring how models learn patterns from data, from classical techniques like regression and clustering to more complex approaches, and applying them to real-world problems.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
