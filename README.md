@@ -164,10 +164,10 @@ Beyond systems programming and graphics, I'm interested in **AI and machine lear
 
 <p align="left">
   <a href="https://github.com/abyss9408/gam200">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abyss9408&repo=gam200&theme=tokyonight&hide_border=true" alt="Bass N' Kick" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=gam200&theme=tokyonight&hide_border=true" alt="Bass N' Kick" />
   </a>
   <a href="https://github.com/abyss9408/UndergraduateCoursework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abyss9408&repo=UndergraduateCoursework&theme=tokyonight&hide_border=true" alt="Undergraduate Coursework" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=UndergraduateCoursework&theme=tokyonight&hide_border=true" alt="Undergraduate Coursework" />
   </a>
 </p>
 
