@@ -175,6 +175,9 @@ Beyond systems programming and graphics, I'm interested in **AI and machine lear
   <a href="https://github.com/abyss9408/UndergraduateCoursework">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=UndergraduateCoursework&theme=tokyonight&hide_border=true" alt="Undergraduate Coursework" />
   </a>
+  <a href="https://github.com/abyss9408/DiplomaCoursework">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=DiplomaCoursework&theme=tokyonight&hide_border=true" alt="Diploma Coursework" />
+  </a>
 </p>
 
 ---
