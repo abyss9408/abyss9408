@@ -157,8 +157,7 @@ I'm a final year computer science undergraduate with a passion for building thin
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=abyss9408&theme=tokyonight&no-frame=true&row=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyss9408&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=abyss9408&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
