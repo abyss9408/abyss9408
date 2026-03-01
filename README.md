@@ -1,6 +1,6 @@
 # Hi, I'm Bryan 👋
 
-I'm a software engineering student with a passion for building things from the ground up — game engines, graphics pipelines, embedded systems, and everything in between. I love working close to the metal and understanding how systems actually work.
+I'm a final year computer science undergraduate with a passion for building things from the ground up — game engines, graphics pipelines, embedded systems, and everything in between. I love working close to the metal and understanding how systems actually work.
 
 ---
 
@@ -165,8 +165,7 @@ I'm a software engineering student with a passion for building things from the g
 
 ## 📫 Contact
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- 💼 [LinkedIn](https://linkedin.com/in/bryanwzang)
 
 ---
 
