@@ -35,7 +35,8 @@ Beyond systems programming and graphics, I'm interested in **AI and machine lear
 
 ## 🚀 Featured Projects
 
-### 🎮 Bass N' Kick — 2D Game with Custom Engine
+### 🎮 Bass N' Kick — 2D Game with Custom Engine (GAM200)
+Duration: Sep 2024 - Apr 2025
 > A 2D platformer built on a fully custom C++ game engine, developed as a second-year software engineering project.
 
 **My Contributions**
@@ -95,7 +96,8 @@ Beyond systems programming and graphics, I'm interested in **AI and machine lear
 
 ---
 
-### 🎮 Tangled Memories — 3D Game with Custom Engine
+### 🎮 Tangled Memories — 3D Game with Custom Engine (GAM300)
+Duration: Sep 2025 - present
 > A 3D game built on a custom C++ engine, with a focus on a production-quality graphics pipeline.
 
 **My Contributions**
