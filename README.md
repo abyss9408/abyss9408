@@ -179,6 +179,9 @@ Duration: Sep 2025 - present
   <a href="https://github.com/abyss9408/gam200">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=gam200&theme=tokyonight&hide_border=true" alt="Second Year Undergraduate Project (Bass N' Kick)" />
   </a>
+  <a href="[https://github.com/abyss9408/DiplomaCoursework](https://github.com/gsherman01/CSD3156-Android-App)">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gsherman01&repo=CSD3156-Android-App&theme=tokyonight&hide_border=true" alt="Mobile Computing Project (TinySell)" />
+  </a>
   <a href="https://github.com/abyss9408/UndergraduateCoursework">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abyss9408&repo=UndergraduateCoursework&theme=tokyonight&hide_border=true" alt="Undergraduate Coursework" />
   </a>
