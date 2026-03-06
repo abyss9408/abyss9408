@@ -17,6 +17,7 @@ Beyond systems programming and graphics, I'm interested in **AI and machine lear
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -163,6 +164,49 @@ Duration: Sep 2025 - present
 - Cleaned up static analysis warnings; configured external library headers as SYSTEM includes
 - Added memory leak checks for the editor; centralized all `.md` documentation into `/docs`
 - Implemented delta time calculation and fixed its accuracy
+</details>
+
+---
+
+### 📱 TinyCell — Android Marketplace App (CSD3156)
+Duration: Jan 2026 - Feb 2026
+> A native Android peer-to-peer marketplace app (Carousell-style) built with Kotlin and Jetpack Compose, developed as a third-year mobile computing module project. Follows MVVM clean architecture with an offline-first dual-write strategy across Room (local) and Firebase Firestore (remote). AI tools were leveraged during development to accelerate implementation and assist with architecture decisions.
+
+**Team of 5 | Role: Android Developer**
+
+**My Contributions**
+
+<details>
+<summary><strong>Real-time Buyer-Seller Chat System</strong> (Largest contribution)</summary>
+
+- Designed and built the full chat system from scratch — `ChatRepository`, `ChatRepositoryImpl`, `FirestoreChatDataSource`, `ChatMessageDao`, domain models (`ChatMessage`, `ChatRoom`), DTOs, and Firestore data sources
+- Implemented real-time message sync via Firestore snapshot listeners with local Room caching for offline support
+- Built `ChatScreen.kt` and `ChatViewModel.kt` with live `StateFlow`-driven UI updates
+- Updated the navigation graph with parameterised chat routes; integrated chat entry point from the listing detail screen
+</details>
+
+<details>
+<summary><strong>Seller Listing Dashboard</strong></summary>
+
+- Built `MyListingsScreen.kt` and `MyListingsViewModel.kt` for sellers to view and manage their posted listings
+- Created `ListingChatsScreen.kt` and `ListingChatsViewModel.kt` to aggregate all buyer conversations per listing into a single seller-facing view
+- Added corresponding Firestore data source methods and updated Firestore security rules
+</details>
+
+<details>
+<summary><strong>Offer / Price Negotiation Feature</strong></summary>
+
+- Implemented the full offer system end-to-end: `OfferRepository`, `OfferRepositoryImpl`, `FirestoreOfferRepositoryImpl`, `OfferDao`, `OfferEntity`, and `OfferDto`
+- Integrated offer flow into the existing chat UI (`ChatScreen`, `ChatViewModel`)
+- Refactored `FirestoreListingRepositoryImpl` and `ListingRepository` to accommodate offer-related operations
+</details>
+
+<details>
+<summary><strong>Listing Detail & Marketplace UI</strong></summary>
+
+- Overhauled `ListingDetailScreen.kt` with a reworked layout and improved information hierarchy
+- Extracted reusable marketplace UI components into `MarketplaceComponents.kt` (listing cards, price tags, user avatars, message bubbles)
+- Refactored `HomeScreen.kt` and extended `ListingRepository` with additional query support
 </details>
 
 ---
